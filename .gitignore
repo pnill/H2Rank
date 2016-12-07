@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.tlog
+Debug/dllmain.obj
+*.manifest
+Debug/H2Rank.lastbuildstate
+*.log
+Debug/H2Rank.obj
+*.obj
+Debug/vc100.idb
